@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/fakeai-rust",
-  "version": "1.0.59",
+  "version": "1.0.60",
   "description": "Description for fakeai-rust",
   "main": "src/index.js",
   "scripts": {
